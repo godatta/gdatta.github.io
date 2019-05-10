@@ -1,1 +1,1 @@
-# digbose92.github.io - repo for personal website
+# gdatta.github.io - repo for personal website
